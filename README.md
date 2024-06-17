@@ -18,3 +18,6 @@ This project is a resume analysis tool that uses advanced techniques to efficien
 # Dependencies:
 
 - 'scikit-learn'
+- 'pandas'
+- 'spaCy'
+- 'pdfminer.six'
